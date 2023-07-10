@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alyapany</h1>
 <h3 align="center">Rappoder</h3>
 
--🧑🏼‍💻 Presently, I have a strong desire to pursue a career as a **DSA professional**
+- 🧑🏼‍💻 Presently, I have a strong desire to pursue a career as a **DSA professional**
 
 - 💬 Ask me about **Java, Database**
 
