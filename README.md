@@ -1,6 +1,6 @@
 # <p align="center">Alyapany</p>
 
-<center>**`Rappoder (Software engineer && Rapper)`**</center>
+**`Rappoder (Software engineer && Rapper)`**
 
 To me, coding is like composing music with words and algorithms. I craft lines of code like I craft rhymes, carefully selecting each element to create a symphony of functionality.
 
