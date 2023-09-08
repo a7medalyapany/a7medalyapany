@@ -34,7 +34,8 @@ To me, coding is like composing music with words and algorithms. I craft lines o
 ---
 
 ### Follow Me
-[![Twitter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg)](https://twitter.com/ahmedalyapany1)
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/ahmed-ibrahim-69b538272/)
-[![Facebook](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg)](https://www.facebook.com/profile.php?id=100008790138366)
-[![Gmail](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-plain.svg)](ahmedalyapany1@gmail.com)
+
+[![MongoDB](https://custom-icon-badges.demolab.com/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Express](https://custom-icon-badges.demolab.com/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![React](https://custom-icon-badges.demolab.com/badge/-React-218AAB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![Node.js](https://custom-icon-badges.demolab.com/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
