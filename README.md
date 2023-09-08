@@ -22,7 +22,4 @@ To me, coding is like composing music with words and algorithms. I craft lines o
 #
 
 ### Stats & Most Used
-![Alyapany's GitHub stats](https://github-readme-stats.vercel.app/api?username=a7medalyapany&show_icons=true&theme=transparent)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a7medalyapany&show_icons=true&locale=en&layout=compact" alt="a7medalyapany" /></p>
-
+![Alyapany's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=a7medalyapany&show_icons=true&locale=en&theme=transparent)
