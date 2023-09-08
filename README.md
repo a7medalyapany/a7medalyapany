@@ -1,6 +1,6 @@
-# Alyapany
+# <p align="center">Alyapany</p>
 
-**`Rappoder (Software engineer && Rapper)`**
+<p align="center"><b>Rappoder (Software engineer && Rapper)</b></p>
 
 To me, coding is like composing music with words and algorithms. I craft lines of code like I craft rhymes, carefully selecting each element to create a symphony of functionality.
 
@@ -25,13 +25,8 @@ To me, coding is like composing music with words and algorithms. I craft lines o
 
 ---
 
-### Stats & Most Used
+### Stats of most used
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a7medalyapany&show_icons=true&theme=transparent" alt="Alyapany's GitHub stats">
-</p>
-
-<p align="center">
-  Check out my code mixtape 🎶: <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a7medalyapany&show_icons=true&locale=en&layout=compact" alt="a7medalyapany">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a7medalyapany&show_icons=true&locale=en&theme=transparent" alt="Alyapany's GitHub stats">
 </p>
