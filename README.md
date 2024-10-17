@@ -14,6 +14,8 @@ To me, coding is like composing music with words and algorithms. I craft lines o
   <img alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img alt="C Programming" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img alt="TypeScript" width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/go/go-original.svg"/>
+  <img alt="TypeScript" width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg"/>
   <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img alt="Swift" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
@@ -23,6 +25,7 @@ To me, coding is like composing music with words and algorithms. I craft lines o
   <img alt="React" width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nextjs/nextjs-original.svg"/>
   <img alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img alt="React" width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original.svg"/>
+  <img alt="Tailwind CSS" width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/supabase/supabase-original.svg"/>
   <img alt="Tailwind CSS" width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/appwrite/appwrite-original.svg"/>
 </p>
 
