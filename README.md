@@ -34,7 +34,7 @@ To me, coding is like composing music with words and algorithms. I craft lines o
 ### Stats of most used
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a7medalyapany&show_icons=true&locale=en&theme=transparent" alt="Alyapany's GitHub stats">
+  <img src="https://raw.githubusercontent.com/a7medalyapany/a7medalyapany/main/github-metrics.svg" />
 </p>
 
 ---
